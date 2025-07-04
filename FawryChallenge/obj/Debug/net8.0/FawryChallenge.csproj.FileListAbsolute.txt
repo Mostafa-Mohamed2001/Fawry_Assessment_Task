@@ -1,0 +1,14 @@
+E:\Fawry_Challenge\Fawry_Challenge\FawryChallenge\bin\Debug\net8.0\FawryChallenge.exe
+E:\Fawry_Challenge\Fawry_Challenge\FawryChallenge\bin\Debug\net8.0\FawryChallenge.deps.json
+E:\Fawry_Challenge\Fawry_Challenge\FawryChallenge\bin\Debug\net8.0\FawryChallenge.runtimeconfig.json
+E:\Fawry_Challenge\Fawry_Challenge\FawryChallenge\bin\Debug\net8.0\FawryChallenge.dll
+E:\Fawry_Challenge\Fawry_Challenge\FawryChallenge\bin\Debug\net8.0\FawryChallenge.pdb
+E:\Fawry_Challenge\Fawry_Challenge\FawryChallenge\obj\Debug\net8.0\FawryChallenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fawry_Challenge\Fawry_Challenge\FawryChallenge\obj\Debug\net8.0\FawryChallenge.AssemblyInfoInputs.cache
+E:\Fawry_Challenge\Fawry_Challenge\FawryChallenge\obj\Debug\net8.0\FawryChallenge.AssemblyInfo.cs
+E:\Fawry_Challenge\Fawry_Challenge\FawryChallenge\obj\Debug\net8.0\FawryChallenge.csproj.CoreCompileInputs.cache
+E:\Fawry_Challenge\Fawry_Challenge\FawryChallenge\obj\Debug\net8.0\FawryChallenge.dll
+E:\Fawry_Challenge\Fawry_Challenge\FawryChallenge\obj\Debug\net8.0\refint\FawryChallenge.dll
+E:\Fawry_Challenge\Fawry_Challenge\FawryChallenge\obj\Debug\net8.0\FawryChallenge.pdb
+E:\Fawry_Challenge\Fawry_Challenge\FawryChallenge\obj\Debug\net8.0\FawryChallenge.genruntimeconfig.cache
+E:\Fawry_Challenge\Fawry_Challenge\FawryChallenge\obj\Debug\net8.0\ref\FawryChallenge.dll
